@@ -1,8 +1,8 @@
 # Hello World! I'm Alok singh 
 
-<p align="center">
-  <img src="https://capsule-render.herokuapp.com/ Patriotic?type=waving&color=auto&height=180&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" alt="Header Banner" />
-</p>
+<!-- <p align="center"> -->
+  <!-- <img src="https://capsule-render.herokuapp.com/ Patriotic?type=waving&color=auto&height=180&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" alt="Header Banner" />
+</p> -->
 
 <p align="center">
   <strong>Passionate Full Stack Developer creating elegant solutions to complex problems.</strong>
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/-alok-singh-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="aloksinghrajput350@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://leetcode.com/u/_Alok_singh_/"><img src="https://img.shields.io/badge/Leetcode-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Leetcode" /></a>
   <!-- <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a> -->
 </p>
 
