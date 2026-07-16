@@ -80,14 +80,7 @@ I’ve also explored frontend development, which helps me understand how complet
 I’m always looking to learn, build, and improve — especially in problem-solving and real-world software development
 ---
 
-##  GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="195px" />
-</p>
-
----
 
 <p align="center">
   <img src="https://streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
