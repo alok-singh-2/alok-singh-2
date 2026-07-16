@@ -82,11 +82,5 @@ I’m always looking to learn, build, and improve — especially in problem-solv
 
 
 
-<p align="center">
-  <img src="https://streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-   <i>"The best way to predict the future is to invent it."</i> 
-</p>
 
