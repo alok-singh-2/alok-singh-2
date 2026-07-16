@@ -1,4 +1,4 @@
-# Hello World! I'm <Alok singh> 
+# Hello World! I'm Alok singh 
 
 <p align="center">
   <img src="https://capsule-render.herokuapp.com/ Patriotic?type=waving&color=auto&height=180&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn" alt="Header Banner" />
