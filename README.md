@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/-alok-singh-/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/_Alok_singh_/"><img src="https://img.shields.io/badge/Leetcode-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Leetcode" /></a>
+  <a href="https://leetcode.com/u/_Alok_singh_/"><img src="https://img.shields.io/badge/Leetcode-D14836?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" /></a>
   <!-- <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" /></a> -->
 </p>
 
