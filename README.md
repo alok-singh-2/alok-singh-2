@@ -74,7 +74,7 @@
 
 ##  About Me
 
-I’m a 4th semester Computer Science student currently working as a Software Development Engineer (SDE) Intern at Bluestock™, where I’m gaining hands-on experience in building real-world applications and improving my problem-solving skills.
+I’m a 5th semester Computer Science student currently working as a Software Development Engineer (SDE) Intern at Bluestock™, where I’m gaining hands-on experience in building real-world applications and improving my problem-solving skills.
 I primarily work with C++ and Data Structures & Algorithms, focusing on writing efficient and optimized solutions. Alongside this, I have practical experience in backend development using Node.js and working with databases like MongoDB and SQL.
 I’ve also explored frontend development, which helps me understand how complete systems are built, even though my current focus is more on backend development and logic building.
 I’m always looking to learn, build, and improve — especially in problem-solving and real-world software development
